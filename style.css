@@ -374,7 +374,7 @@ body {
 @media (max-width: 576px) {
     /*Общий контейнер*/
     * {
-        max-width: 530px;
+        max-width: 100%;
         justify-content: center;
     }
     
@@ -618,7 +618,7 @@ body {
 @media (max-width: 992px) {
     /*Общий контейнер*/
     * {
-        max-width: 900px;
+        max-width: 100%;
         justify-content: center;
     }
     
